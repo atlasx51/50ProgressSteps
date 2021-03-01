@@ -101,3 +101,4 @@ transform: scale(0.98);
 .btn:disabled{
     background-color: var(--line-border-empty);
 }
+
